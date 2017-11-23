@@ -1,2 +1,12 @@
 # bsp
-Code for reproducing the results of the paper "Body size phenotypes comprehensively assess cardiometabolic risk and refine the association between obesity and gut microbiota" (de la Cuesta-Zuluaga et al. 2017, International Journal of Obesity, doi: 10.1038/ijo.2017.281)
+© Vidarium, 2017
+
+This folder contains the necessary files to replicate the results presented in the following paper:
+
+de la Cuesta-Zuluaga J, Corrales-Agudelo V, Carmona JA, Abad JM, Escobar JS. Body size phenotypes comprehensively assess cardiometabolic risk and refine the association between obesity and gut microbiota. International Journal of Obesity. DOI: 10.1038/ijo.2017.281
+
+Microbio_BSP_analyses.R: R script for reproducing the analyses presented in the paper.
+lefse_abnormalities*.txt: datasets to run Lefse (https://huttenhower.sph.harvard.edu/galaxy/)
+All other files are necessary for running Microbio_BSP_analyses.R.
+
+Contact: jsescobar@serviciosnutresa.com
